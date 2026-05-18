@@ -1,7 +1,10 @@
-## Testing
-Hello World?
+$11x = \pi$
 
-This will show up in my profile, right? 😳
+$x = \frac{\pi}{11} $
+
+$x =\frac{\enclose{horizontalstrike}{\pi}}{\enclose{horizontalstrike}{11}}$
+
+$x = -$
 
 <!--
 **BigJeep/BigJeep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
